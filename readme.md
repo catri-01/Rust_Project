@@ -1,0 +1,1 @@
+In this 2-hour long project-based course, we will focus on handling API responses fetched from a given RPC URL. Then we are going to build a target proximity game which can act as a foundation layer for big projects like optimizing delivery time for a food delivery app like Zomato.
